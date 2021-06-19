@@ -1,0 +1,14 @@
+body {
+  background-color: steelblue;
+}
+
+#img {
+  width: 25%;
+  height: 25%;
+}
+
+#paragraph {
+  color: slateblue;
+  font-family: "Lucida Sans";
+  font-weight: bold;
+}
